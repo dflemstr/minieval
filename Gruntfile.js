@@ -31,7 +31,6 @@ module.exports = function(grunt) {
               'system',
               'source-map',
               'estraverse',
-              'escodegen',
               'underscore',
               'reflect',
               'JSONSelect',
